@@ -1,9 +1,9 @@
 # Praneet Bhoj's User Page
 ## CSE 110 Week 1 Lab
 ### Sections
-[About Me](#about-me)
-[My Classes](#my-classes)
-[Today's Checklist](#todays-checklist)
+[About Me](#about-me)<br>
+[My Classes](#my-classes)<br>
+[Today's Checklist](#todays-checklist)<br>
 [Quote](#quote)
 ### About Me
 ![Praneet picture](/praneet.jpeg)
@@ -30,5 +30,7 @@ This quarter, I am taking the following courses:
 - [ ] Finish CSE 101 homework
 ### Quote
 In the spirit of my love for sports, I leave you with something Michael Jordan once said:
+>
 > I can accept failure, everyone fails at something. But I can’t accept not trying.
+> 
 ***I believe it is important to strive to live by this principle*** ~~because he's a billionaire and I want to be a billionaire too~~
