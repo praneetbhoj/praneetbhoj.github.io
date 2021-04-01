@@ -9,7 +9,7 @@
 ### About Me
 ![Praneet picture](/praneet.jpeg)<br>
 Hi! I'm [Praneet](https://www.linkedin.com/in/praneet-bhoj/), a second year student at UC San Diego pursuing a B.S. in Computer Science and a minor in Physics.<br>
-This summer I will be working at Oracle as a Software Engineer Intern for Oracle Cloud Infrastructure (OCI). I have also been working on a few fun side projects, primarily written in Java, Javascript, and Python, whenever I have the time. Java is my favorite programming language (it's also the language I have the most experience with), and there are many cool things you can do with it! If you are eager to learn about Java, it is often suggested to start with the very simple Hello World program, which you can find [here](/HelloWorld.java). To run it, download the `HelloWorld.java` file, open your terminal, `cd` into the folder containing the `HelloWorld.java` file, and **run the following commands _sequentially_**:
+This summer I will be working at Oracle as a Software Engineer Intern for Oracle Cloud Infrastructure (OCI). I have also been working on a few fun side projects, primarily written in Java, Javascript, and Python, whenever I have the time. Java is my favorite programming language (it's also the language I have the most experience with), and there are many cool things you can do with it! If you are eager to learn about Java, it is often suggested to start with the very simple Hello World program, which you can find [here](/HelloWorld.java). To run it, copy/paste the code into a new file on your computer called `HelloWorld.java`, open your terminal, `cd` into the folder containing the `HelloWorld.java` file, and **run the following commands _sequentially_**:
 ```
 javac HelloWorld.java
 java HelloWorld
