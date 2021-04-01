@@ -5,6 +5,7 @@
 [My Classes](#my-classes)<br>
 [Today's Checklist](#todays-checklist)<br>
 [Quote](#quote)
+
 ### About Me
 ![Praneet picture](/praneet.jpeg)<br>
 Hi! I'm [Praneet](https://www.linkedin.com/in/praneet-bhoj/), a second year student at UC San Diego pursuing a B.S. in Computer Science and a minor in Physics.<br>
@@ -16,18 +17,21 @@ java HelloWorld
 You should see the string "Hello, World!" printed to your terminal. From there, you can start exploring other features of Java and creating more fun and complex programs!<br>
 Aside from computer science, I've been exploring my interest in physics through astronomy/astrophysics research projects at UC Santa Cruz and here at UCSD.<br>
 In my free time, I like to play video games on my Xbox or play basketball with friends. I also *love* watching basketball (I am a **big** fan of the Miami Heat), football, and soccer, and enjoy keeping up to date with sports in general.
+
 ### My Classes
 This quarter, I am taking the following courses:
 - CSE 101: Design and Analysis of Algorithms
 - CSE 110: Software Engineering
 - PHYS 162: Cosmology
 - HIUS 113: History of Mexican America
+
 ### Today's Checklist
 - [x] Attend lectures
 - [x] Start PHYS 162 homework
 - [x] Finish CSE 110 lab
 - [ ] Go for a run
 - [ ] Finish CSE 101 homework
+
 ### Quote
 In the spirit of my love for sports, I leave you with something Michael Jordan once said:
 
