@@ -33,4 +33,4 @@ In the spirit of my love for sports, I leave you with something Michael Jordan o
 >
 > I can accept failure, everyone fails at something. But I can’t accept not trying.
 > 
-***I believe it is important to strive to live by this principle*** ~~because he's a billionaire and I want to be a billionaire too~~
+***I believe it is important to strive to live by this principle*** ~~***because he's a billionaire and I want to be a billionaire too***~~
