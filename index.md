@@ -9,11 +9,10 @@
 ### About Me
 ![Praneet picture](/praneet.jpeg)<br>
 Hi! I'm [Praneet](https://www.linkedin.com/in/praneet-bhoj/), a second year student at UC San Diego pursuing a B.S. in Computer Science and a minor in Physics.<br>
-This summer I will be working at Oracle as a Software Engineer Intern for Oracle Cloud Infrastructure (OCI). I have also been working on a few fun side projects, primarily written in Java, Javascript, and Python, whenever I have the time. Java is my favorite programming language (it's also the language I have the most experience with), and there are many cool things you can do with it! If you are eager to learn about Java, it is often suggested to start with the very simple Hello World program, which you can find [here](/HelloWorld.java). To run it, copy/paste the code into a new file on your computer called `HelloWorld.java`, open your terminal, `cd` into the folder containing the `HelloWorld.java` file, and **run the following commands _sequentially_**:
-```
-javac HelloWorld.java
-java HelloWorld
-```
+This summer I will be working at Oracle as a Software Engineer Intern for Oracle Cloud Infrastructure (OCI). I have also been working on a few fun side projects, primarily written in Java, Javascript, and Python, whenever I have the time. Java is my favorite programming language (it's also the language I have the most experience with), and there are many cool things you can do with it! If you are eager to learn about Java, it is often suggested to start with the very simple Hello World program, which you can find [here](/HelloWorld.md). To run it, copy/paste the code into a new file on your computer called `HelloWorld.java`, open your terminal, `cd` into the folder containing the `HelloWorld.java` file, and **run the following commands _sequentially_**:
+1. `javac HelloWorld.java`
+2. `java HelloWorld`
+
 You should see the string "Hello, World!" printed to your terminal. From there, you can start exploring other features of Java and creating more fun and complex programs!<br>
 Aside from computer science, I've been exploring my interest in physics through astronomy/astrophysics research projects at UC Santa Cruz and here at UCSD.<br>
 In my free time, I like to play video games on my Xbox or play basketball with friends. I also *love* watching basketball (I am a **big** fan of the Miami Heat), football, and soccer, and enjoy keeping up to date with sports in general.
